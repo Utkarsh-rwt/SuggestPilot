@@ -571,7 +571,7 @@ body.dark .connection-status.error {
   border-radius: 30px;
   margin-left: 6%;
   transition-property: all;
-  transition-duration: 35ms;
+  transition-duration: 0.3s;
 }
 
 #innerbox.active {
